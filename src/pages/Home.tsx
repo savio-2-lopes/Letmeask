@@ -1,4 +1,4 @@
-import { useHistory } from 'react-router-dom'
+// import { useHistory } from 'react-router-dom'
 import { auth, firebase } from '../services/firebase'
 import illustrationImg from '../assets/images/illustration.svg'
 import logoImg from '../assets/images/logo.svg'
@@ -8,7 +8,7 @@ import { Button } from '../Components/Button'
 import '../styles/auth.scss'
 
 export function Home() {
-  const history = useHistory()
+  // const history = useHistory()
 
   function handleCreateRoom() {
     const provider = new firebase.auth.GoogleAuthProvider()
