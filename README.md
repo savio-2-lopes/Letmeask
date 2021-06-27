@@ -72,7 +72,13 @@ $ git clone https://github.com/savio-2-lopes/Letmeask.git
 # Entre na pasta
 $ cd Letmeask
 
-# Crie um arquivo denominado .env.local e adicione os dados obtidos das configurações do Firebae
+# Crie um arquivo denominado .env.local e adicione os dados obtidos das configurações do Firebase
+$ REACT_APP_API_KEY=" "
+$ REACT_APP_AUTH_DOMAIN=" "
+$ REACT_APP_DATABASE_URL=" "
+$ REACT_APP_PROJECT_ID=" "
+$ REACT_APP_STORAGE_BUCKET=" "
+$ REACT_APP_APP_ID=" "
 
 # Instale as depedências
 $ yarn
