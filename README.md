@@ -38,6 +38,8 @@
 
 Projeto desenvolvido durante a **6º edição da NLW - Next Level Week** da [Rocketseat](https://rocketseat.com.br/)
 
+<br>
+
 <a id="layout"></a>
 
 ## 🎨 Layout
