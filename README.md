@@ -36,7 +36,7 @@
 
 :speech_balloon: Plataforma para criar salas de Q&A (perguntas e respostas). 
 
-Projeto desenvolvido durante a 6º edição da NLW - Next Level Week**da [Rocketseat](https://rocketseat.com.br/)
+Projeto desenvolvido durante a **6º edição da NLW - Next Level Week** da [Rocketseat](https://rocketseat.com.br/)
 
 <a id="layout"></a>
 
